@@ -1,0 +1,14 @@
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\bin\Debug\net8.0\CarShopDomain.deps.json
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\bin\Debug\net8.0\CarShopDomain.runtimeconfig.json
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\bin\Debug\net8.0\CarShopDomain.dll
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\bin\Debug\net8.0\CarShopDomain.pdb
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\CarShopDomain.csproj.AssemblyReference.cache
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\CarShopDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\CarShopDomain.AssemblyInfoInputs.cache
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\CarShopDomain.AssemblyInfo.cs
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\CarShopDomain.csproj.CoreCompileInputs.cache
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\CarShopDomain.dll
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\refint\CarShopDomain.dll
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\CarShopDomain.pdb
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\CarShopDomain.genruntimeconfig.cache
+D:\universityLabs\LabISTTP\src\CarShopMVC\CarShopDomain\obj\Debug\net8.0\ref\CarShopDomain.dll
